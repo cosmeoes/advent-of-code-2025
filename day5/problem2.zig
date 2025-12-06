@@ -1,7 +1,6 @@
 const std = @import("std");
 const assert = std.debug.assert;
 
-
 const FreshRange = struct {
     start: u64,
     end: u64,
